@@ -81,3 +81,19 @@ STEP 3:
 STEP4:
 ![image](https://user-images.githubusercontent.com/113325376/217537020-843916c4-d383-4155-958e-f6f2aff08557.png)
 
+
+EXPERIMENT 2:
+STEP 1:
+![Screenshot (124)](https://user-images.githubusercontent.com/113325376/218014921-cf3ea801-08d2-41e5-be88-81486e4b51a7.png)
+
+STEP 2:
+![Screenshot (125)](https://user-images.githubusercontent.com/113325376/218015021-9b9ac8e8-b378-4729-a62f-0828dab79d3b.png)
+
+
+EXPERIMENT 4:
+
+STEP 1:
+
+![image](https://user-images.githubusercontent.com/113325376/218015236-cf24ac4f-215c-4283-9b2f-0dfe0a65e1c5.png)
+
+
