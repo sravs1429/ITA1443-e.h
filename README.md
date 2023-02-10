@@ -24,3 +24,5 @@ STEP 1:
 ![Screenshot (99)](https://user-images.githubusercontent.com/113325376/217534564-7211e6c3-3f61-4d48-b3bf-dc06a7944ed9.png)
 STEP 2:
 ![Screenshot (100)](https://user-images.githubusercontent.com/113325376/217534653-9387febf-4d5f-4970-a2f3-19448c91c432.png)
+STEP 3:
+![Screenshot (101)](https://user-images.githubusercontent.com/113325376/217535010-88186ce4-fd43-4f13-8c34-da3955287dfa.png)
