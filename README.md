@@ -70,3 +70,14 @@ STEP 3:
 STEP 4:
 ![image](https://user-images.githubusercontent.com/113325376/218004639-a397db0f-d76a-4f3a-880a-5f3031015bd8.png)
 
+EXPERIMENT 9:
+
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/217535773-c8cb73d8-777b-4f35-94f9-ba2c5bf75867.png)
+STEP 2:
+![image](https://user-images.githubusercontent.com/113325376/217536473-cde67060-acdd-4173-84e5-40e32d701e60.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/217536554-7f77ee8c-20a6-4549-8ca1-ff780c892514.png)
+STEP4:
+![image](https://user-images.githubusercontent.com/113325376/217537020-843916c4-d383-4155-958e-f6f2aff08557.png)
+
