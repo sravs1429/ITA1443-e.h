@@ -40,3 +40,33 @@ STEP 4:
 STEP 5:
 ![image](https://user-images.githubusercontent.com/113325376/217534073-e374a62f-ed53-4766-a0ef-5bcccf56247c.png)
 
+EXPERIMENT 5:
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/217540180-a0443d23-b88f-43fa-bbc5-bbd9d358858b.png)
+STEP 2:
+![image](https://user-images.githubusercontent.com/113325376/217540808-d1de8130-f36b-4f3c-90a9-6113e1595114.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
+
+EXPERIMENT 10:
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/217537637-8270f592-bf55-4c7f-af32-17ca784d0098.png)
+STEP 2:
+![image](https://user-images.githubusercontent.com/113325376/217537772-090350fb-d065-4329-ae8e-7a967d57e347.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/217537871-ae47f02e-f2ea-4a0d-bce1-a14bb4c127e2.png)
+STEP 4:
+![image](https://user-images.githubusercontent.com/113325376/217537970-82440a50-0c9d-41a6-bf89-54e49e1ae89d.png)
+STEP 5:
+![image](https://user-images.githubusercontent.com/113325376/217538165-73f5aff8-50f9-430d-a879-ac1b477d545f.png)
+
+EXPERIMENT 1:
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/218004275-ccc3f860-efab-4d89-bc4f-29a24afe0df1.png)
+STEP 2:
+![image](https://user-images.githubusercontent.com/113325376/218004406-5f906431-1e0e-4577-b5f6-1fd51e05432e.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/218004505-d6a83d66-8fb4-4f2a-ae98-699612d05482.png)
+STEP 4:
+![image](https://user-images.githubusercontent.com/113325376/218004639-a397db0f-d76a-4f3a-880a-5f3031015bd8.png)
+
